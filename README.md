@@ -21,7 +21,7 @@ I want to become a Software Engineer and hence currently I'm improving my algori
 
 I've also worked on Web and Application Technologies 💻.
 
-Beside's developing stuff, I play Guitar🎸, Piano🎹 and love traveling 🏝️🗻.
+Beside's developing stuff, I play Guitar🎸, Piano🎹 and love travelling 🏝️🗻.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
 
