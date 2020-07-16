@@ -1,10 +1,16 @@
-### Namastey <code><https://cdn.iconscout.com/icon/free/png-512/indian-man-1862334-1579264.png></code>, I'm [Rohit!](https://rohit-bindal.github.io/)
+### Hey 👋, I'm [Rohit!](https://rohit-bindal.github.io/)
 
 <a href="https://www.linkedin.com/in/rohit-bindal-251445197/">
   <img align="left" alt="Rohit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/mr.bean_dal/?hl=en">
   <img align="left" alt="Rohit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/kanu.agarwal.965">
+  <img align="left" alt="Rohit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://medium.com/@rohit_bindal">
+  <img align="left" alt="Rohit's Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
 <br />
@@ -15,7 +21,7 @@ I want to become a Software Engineer and hence currently I'm improving my algori
 
 I've also worked on Web and Application Technologies 💻.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" />
 
 
 **Personal Stuff & Achievements:**
@@ -46,5 +52,7 @@ I've also worked on Web and Application Technologies 💻.
 
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohit-bindal&show_icons=true&hide_border=true)
+
+:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/rohit-bindal/rohit-bindal) :pencil:
 
 
