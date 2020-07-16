@@ -25,7 +25,6 @@ Beside's developing stuff, I play Guitar🎸, Piano🎹 and love traveling 🏝�
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/Q61LJj43H48z1FIK4X/source.gif" />
 
-
 **Personal Stuff & Achievements:**
 
 - 🥇 Cracked JEE Advanced 2018
