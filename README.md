@@ -23,7 +23,7 @@ I've also worked on Web and Application Technologies 💻.
 
 Beside's developing stuff, I play Guitar🎸, Piano🎹 and love traveling 🏝️🗻.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/source.mp4" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/3o6ZsX2OZJ8G3Tec6Y/source.gif" />
 
 **Personal Stuff & Achievements:**
 
