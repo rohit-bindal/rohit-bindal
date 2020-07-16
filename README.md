@@ -26,11 +26,11 @@ I've also worked on Web and Application Technologies 💻.
 
 **Personal Stuff & Achievements:**
 
-- 🥇 I cracked JEE Advanced 2018
+- 🥇 Cracked JEE Advanced 2018
 - 🎓 Pursuing BTech. in Petroleum Engineering from Indian Institute of Petroleum and Energy, Visakhapatnam
 - 👨‍💻 Web Development Intern [@BlueSapience](https://bluesapience.com/)
-- 👨‍🏫 Campus Ambassador at Coding Blocks [@Coding Blocks](https://codingblocks.com/)
-- 🥇 Secured Rank under top 100 two times in hackathons organised by DareToComplete [@D2C](https://dare2compete.com/)
+- 👨‍🏫 Campus Ambassador [@Coding Blocks](https://codingblocks.com/)
+- 🥇 Secured Rank under top 100 two times in hackathons organised by [D2C](https://dare2compete.com/)
 - 🤝 Successful Contributions in Hacktober Fest 2019 presented by Digital Ocean and DEV
 - ✅ Workshop of Artificial Intelligence and Machine Learning organinsed by IIT Bhubaneswar
 - 💬 Ask me about anything, I am happy to help
