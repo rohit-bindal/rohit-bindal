@@ -1,4 +1,4 @@
-### Namastey <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png"></code>, I'm [Rohit!](https://rohit-bindal.github.io/)
+### Namastey <code><https://cdn.iconscout.com/icon/free/png-512/indian-man-1862334-1579264.png></code>, I'm [Rohit!](https://rohit-bindal.github.io/)
 
 <a href="https://www.linkedin.com/in/rohit-bindal-251445197/">
   <img align="left" alt="Rohit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
