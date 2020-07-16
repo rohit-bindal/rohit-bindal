@@ -29,7 +29,7 @@ Beside's developing stuff, I play Guitar🎸, Piano🎹 and love traveling 🏝�
 
 - 🥇 Cracked JEE Advanced 2018
 - 🎓 Pursuing BTech. in Petroleum Engineering from Indian Institute of Petroleum and Energy, Visakhapatnam
-- 👨‍💻 Web Development Intern [@BlueSapience](https://bluesapience.com/)
+- 👨‍💻 Web Development Intern [@Blue Sapience](https://bluesapience.com/)
 - 👨‍🏫 Campus Ambassador [@Coding Blocks](https://codingblocks.com/)
 - 🥇 Secured Rank under top 100 two times in hackathons organised by [D2C](https://dare2compete.com/)
 - 🤝 Successful Contributions in [Hacktober Fest 2019](https://hacktoberfest.digitalocean.com/) presented by Digital Ocean and DEV
@@ -40,16 +40,16 @@ Beside's developing stuff, I play Guitar🎸, Piano🎹 and love traveling 🏝�
 &nbsp;
 
 **Languages and Tools:**
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" title="Vue.js"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" title="PostgreSQL"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="Flutter"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" title="Android Studio"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" title="Java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" title="Visual Studio Code"></code>
 
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohit-bindal&show_icons=true&hide_border=true)
