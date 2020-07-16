@@ -1,16 +1,16 @@
 ### Hey 👋, I'm [Rohit](https://rohit-bindal.github.io/)!
 
 <a href="https://www.linkedin.com/in/rohit-bindal-251445197/">
-  <img align="left" alt="Rohit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rohit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/mr.bean_dal/?hl=en">
-  <img align="left" alt="Rohit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rohit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram" />
 </a>
 <a href="https://www.facebook.com/kanu.agarwal.965">
-  <img align="left" alt="Rohit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Rohit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" title="Facebook" />
 </a>
 <a href="https://medium.com/@rohit_bindal">
-  <img align="left" alt="Rohit's Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Rohit's Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" title="Medium" />
 </a>
 <br />
 <br />
