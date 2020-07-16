@@ -35,7 +35,7 @@ Beside's developing stuff, I play Guitar🎸, Piano🎹 and love traveling 🏝�
 - 🤝 Successful Contributions in [Hacktober Fest 2019](https://hacktoberfest.digitalocean.com/) presented by Digital Ocean and DEV
 - ✅ Workshop of Artificial Intelligence and Machine Learning organinsed by IIT Bhubaneswar
 - 💬 Ask me about anything, I will be happy to help
-- 📫 Leave a mail: rohitbindal29@gmail.com
+- 📫 How to reach me? Leave a mail: rohitbindal29@gmail.com
 
 &nbsp;
 
@@ -54,6 +54,6 @@ Beside's developing stuff, I play Guitar🎸, Piano🎹 and love traveling 🏝�
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohit-bindal&show_icons=true&hide_border=true)
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/rohit-bindal/rohit-bindal) :pencil:
+:pushpin: Liked this introduction? You can also make similar for yourself. Star⭐ and Fork this [README](https://github.com/rohit-bindal/rohit-bindal) :pencil:
 
 
