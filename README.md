@@ -31,10 +31,10 @@ I've also worked on Web and Application Technologies 💻.
 - 👨‍💻 Web Development Intern [@BlueSapience](https://bluesapience.com/)
 - 👨‍🏫 Campus Ambassador [@Coding Blocks](https://codingblocks.com/)
 - 🥇 Secured Rank under top 100 two times in hackathons organised by [D2C](https://dare2compete.com/)
-- 🤝 Successful Contributions in Hacktober Fest 2019 presented by Digital Ocean and DEV
+- 🤝 Successful Contributions in [Hacktober Fest 2019](https://hacktoberfest.digitalocean.com/) presented by Digital Ocean and DEV
 - ✅ Workshop of Artificial Intelligence and Machine Learning organinsed by IIT Bhubaneswar
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: rohitbindal29@gmail.com
+- 💬 Ask me about anything, I will be happy to help
+- 📫 Leave a mail: rohitbindal29@gmail.com
 
 &nbsp;
 
