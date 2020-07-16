@@ -21,7 +21,7 @@ I want to become a Software Engineer and hence currently I'm improving my algori
 
 I've also worked on Web and Application Technologies 💻.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
 
 
 **Personal Stuff & Achievements:**
