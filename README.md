@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Rohit!](https://rohit-bindal.github.io/)
+### Namastey <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png"></code>, I'm [Rohit!](https://rohit-bindal.github.io/)
 
 <a href="https://www.linkedin.com/in/rohit-bindal-251445197/">
   <img align="left" alt="Rohit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -33,7 +33,6 @@ I've also worked on Web and Application Technologies 💻.
 &nbsp;
 
 **Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
