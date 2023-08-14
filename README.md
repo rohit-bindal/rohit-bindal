@@ -6,6 +6,9 @@
 <a href="https://leetcode.com/rohitbindal29/">
   <img align="left" alt="leetcode profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" title="LeetCode" />
 </a>
+<a href="https://auth.geeksforgeeks.org/user/rohitbindal29">
+  <img align="left" alt="gfg profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" title="GFG" />
+</a>
 <a href="https://www.codechef.com/users/code_bindal">
   <img align="left" alt="codechef profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" title="CodeChef" />
 </a>
