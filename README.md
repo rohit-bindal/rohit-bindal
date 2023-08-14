@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Rohit](https://www.youtube.com/watch?v=yzdJslToeOU&t=24s)!
+### Hey 👋, I'm [Rohit](https://drive.google.com/file/d/1FAFjsJdXeYjCvLAXB4RXR1T__BnKRihS/view?usp=sharing)!
 
 <a href="https://www.linkedin.com/in/rohit-bindal-251445197/">
   <img align="left" alt="Rohit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LinkedIn" />
