@@ -24,6 +24,7 @@ In addition, my proficiency extends to the **Spring Framework**, allowing me to 
 
 ## Exploring the 3D Realm
 But what truly sets my work apart is my fascination with pushing the boundaries of visual storytelling. Exploring the realms of **Three.js**, I'm adding an extra dimension to my creations. By infusing websites with captivating 3D visuals, I'm injecting life and depth into digital spaces, making them more immersive and captivating for users.
-<hr/>
+
+-----
 
 Feel free to reach out if you share my enthusiasm for **full stack development**, cutting-edge technologies, and the art of creating memorable digital experiences. Let's collaborate and bring your web visions to life!
